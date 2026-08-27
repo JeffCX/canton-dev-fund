@@ -9,7 +9,7 @@
 **License:** Apache-2.0 for code; CC-BY-4.0 for documentation  
 **Target:** LocalNet and dependency-gated TestNet  
 **Engineering period:** 8 weeks after approval and dependency confirmation  
-**Funding request:** 1,850,000 CC, approximately US$200,000 at the draft exchange rate. The CC amount will be revalidated before submission; the grant is denominated in CC.
+**Funding request:** 1,850,000 CC, approximately US$200,000 at the draft exchange rate. The CC amount will be revalidated before submission; the grant is denominated in CC
 
 ---
 
